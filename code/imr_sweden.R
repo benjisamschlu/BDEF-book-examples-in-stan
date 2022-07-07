@@ -3,7 +3,7 @@
 ##
 ##  Reproduce examples of BDEF with STAN code
 ##
-## Chapter 12: Infant mortality rates Sweden
+## Chapter 11: Infant mortality rates Sweden
 ## 
 ##  Author: Benjamin Schlüter
 ##  Date: June 2022
